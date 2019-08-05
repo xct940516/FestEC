@@ -1,0 +1,1 @@
+include ':example', ':latte_annotation', ':latte_compiler', ':latte_core', ':latte_ec'
